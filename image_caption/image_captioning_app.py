@@ -128,7 +128,7 @@ def main():
         st.info("Upload single photo or folder to proceed")
     
     st.markdown("---")
-    st.video("https://www.youtube.com/watch?v=bC5XoMVYCGQ", format="video/mp4", start_time=0, subtitles=None)
+    #st.video("https://www.youtube.com/watch?v=bC5XoMVYCGQ", format="video/mp4", start_time=0, subtitles=None)
     col1, col2, col3 , col4, col5 = st.columns(5)
 
     with col1:
